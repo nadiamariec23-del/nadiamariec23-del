@@ -44,4 +44,5 @@ Built and evaluated machine learning models using CDC health indicator data to e
 ## 🤝 Connect With Me
 
 - [GitHub](https://github.com/nadiamariec23-del)
-- LinkedIn: Add your profile link here
+- LinkedIn: [[Add your profile link here](https://www.linkedin.com/in/nadiacarballo/)]
+  
